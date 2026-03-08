@@ -18,24 +18,6 @@
         <mxCell id="eeJDUh25jtbV2opV1lAj-18" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="400" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eeJDUh25jtbV2opV1lAj-19" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;targetPerimeterSpacing=4;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="440" as="sourcePoint" />
-            <mxPoint x="420" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eeJDUh25jtbV2opV1lAj-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="460" as="sourcePoint" />
-            <mxPoint x="410" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eeJDUh25jtbV2opV1lAj-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="480" as="sourcePoint" />
-            <mxPoint x="390" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
