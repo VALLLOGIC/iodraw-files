@@ -219,7 +219,7 @@
             <mxPoint x="500" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eeJDUh25jtbV2opV1lAj-134" value="" style="group;direction=east;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fillColor=none;strokeColor=none;rounded=0;glass=0;" vertex="1" connectable="0" parent="1">
+        <mxCell id="eeJDUh25jtbV2opV1lAj-134" value="" style="group;direction=east;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=none;rounded=0;glass=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="460" y="1020" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="eeJDUh25jtbV2opV1lAj-135" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;strokeWidth=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="eeJDUh25jtbV2opV1lAj-134">
