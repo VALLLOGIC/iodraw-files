@@ -14,10 +14,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eeJDUh25jtbV2opV1lAj-14" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="360" width="60" height="80" as="geometry" />
+          <mxGeometry x="250" y="360" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eeJDUh25jtbV2opV1lAj-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eeJDUh25jtbV2opV1lAj-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
